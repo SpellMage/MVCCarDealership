@@ -15,11 +15,7 @@ package cs315.mvccardealership;
 
 import java.util.Calendar;
 import java.util.Date;
-
-/**
- *
- * @author amanning
- */
+import java.util.Scanner;
 public class Cs315MVCCarDealership {
 
     /*
