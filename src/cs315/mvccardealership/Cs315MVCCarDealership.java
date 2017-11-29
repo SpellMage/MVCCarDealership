@@ -19,9 +19,6 @@ import java.util.Scanner;
 import javax.swing.JFrame;
 import java.util.ArrayList;
 
-//Delete this if seen on github
-//trying to confirm that i can actually implement change
-import java.lang.Math;
 
 
 public class Cs315MVCCarDealership {
@@ -34,8 +31,7 @@ public class Cs315MVCCarDealership {
 
 
     public static void main(String[] args) {
-//make a model class
-        double superman = Math.random();
+//make a model classdouble superman = Math.random();
         CarDealershipModel myModel = new CarDealershipModel();
 
 //make a view class
