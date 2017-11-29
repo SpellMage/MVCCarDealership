@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 //Delete this if seen on github
 //trying to confirm that i can actually implement change
-import java.util.Math;
+import java.lang.Math;
 
 
 public class Cs315MVCCarDealership {
@@ -31,8 +31,11 @@ public class Cs315MVCCarDealership {
  * Members: Liam, Carter, Evan
  * Creation Date: 10-25-2017
      */
+
+
     public static void main(String[] args) {
 //make a model class
+        double number = Math.random();
         CarDealershipModel myModel = new CarDealershipModel();
 
 //make a view class
