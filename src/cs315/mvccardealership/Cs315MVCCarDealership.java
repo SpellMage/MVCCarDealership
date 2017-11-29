@@ -35,7 +35,7 @@ public class Cs315MVCCarDealership {
 
     public static void main(String[] args) {
 //make a model class
-        double number = Math.random();
+        double superman = Math.random();
         CarDealershipModel myModel = new CarDealershipModel();
 
 //make a view class
