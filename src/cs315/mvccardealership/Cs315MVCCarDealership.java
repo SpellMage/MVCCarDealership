@@ -19,6 +19,11 @@ import java.util.Scanner;
 import javax.swing.JFrame;
 import java.util.ArrayList;
 
+//Delete this if seen on github
+//trying to confirm that i can actually implement change
+import java.util.Math;
+
+
 public class Cs315MVCCarDealership {
 
     /*
